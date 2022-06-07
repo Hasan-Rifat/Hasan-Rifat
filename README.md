@@ -2,8 +2,7 @@
 <br />
 
 - 👋 Hi, I’m Hasan Rifat
-- 👀 I’m interested in React Native 
-- 🌱 I’m currently learning UI/UX designing
+- 👀 I’m MERN Stack developer
 - 📫 How to reach me www.dev-hasan-rifat.com 
 
 ## :mailbox: Reach me out :      [![Github](https://img.shields.io/github/followers/Hasan-Rifat?label=Follow&style=social)](https://github.com/Hasan-Rifat)&nbsp;![Profile views](https://gpvc.arturio.dev/Hasan-Rifat)
