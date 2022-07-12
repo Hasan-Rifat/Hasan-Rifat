@@ -4,6 +4,7 @@
 - 👋 Hi, I’m Hasan Rifat
 - 👀 I’m MERN Stack developer
 - 📫 Portfolio [https://dev-hasan-rifat.netlify.app/](https://dev-hasan-rifat.netlify.app/)
+- 📫 how to reach me [contacthasanrifat@gmail.com](contacthasanrifat@gmail.com)
 
 ## :mailbox: Reach me out :      [![Github](https://img.shields.io/github/followers/Hasan-Rifat?label=Follow&style=social)](https://github.com/Hasan-Rifat)&nbsp;![Profile views](https://gpvc.arturio.dev/Hasan-Rifat)
 
